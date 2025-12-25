@@ -1,5 +1,7 @@
 # 3D Web Experiment
 
+⚠️ **Note:** For the best experience and full 3D effects, please open this project on a Laptop or PC. Mobile devices may have limited interaction functionality.
+
 This is a personal 3D web experiment built as part of my learning journey as a Software Engineering student at HIT. The project is purely frontend-focused and serves as a visual showcase for experimenting with interactive 3D elements on the web.
 
 ## Live Demo
